@@ -14,6 +14,8 @@
     CCNode *_ground2;
     NSArray *_grounds;
     
+    CCNode *_cloud1;
+    
     NSTimeInterval _sinceTouch;
     
     NSMutableArray *_obstacles;
